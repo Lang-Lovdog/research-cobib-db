@@ -202,3 +202,36 @@ Gal2020:
   title: 'Baryons from Mesons: A Machine Learning Perspective'
   year: 2020
 ...
+---
+Cole2021:
+  ENTRYTYPE: unpublished
+  abstract: Identifying string theory vacua with desired physical properties at 
+    low energies requires searching through high-dimensional solution spaces - 
+    collectively referred to as the string landscape. We highlight that this 
+    search problem is amenable to reinforcement learning and genetic algorithms.
+    In the context of flux vacua, we are able to reveal novel features 
+    (suggesting previously unidentified symmetries) in the string theory 
+    solutions required for properties such as the string coupling. In order to 
+    identify these features robustly, we combine results from both search 
+    methods, which we argue is imperative for reducing sampling bias.
+  archivePrefix: arXiv
+  arxivid: 2111.11466v1
+  author:
+  - first: Alex
+    last: Cole
+  - first: Sven
+    last: Krippendorf
+  - first: Andreas
+    last: Schachner
+  - first: Gary
+    last: Shiu
+  eprint: http://arxiv.org/abs/2111.11466v1
+  file:
+  - ~/.local/share/cobib/Cole2021.pdf
+  primaryClass: hep-th
+  tags:
+  - '2202.06086'
+  title: Probing the Structure of String Theory Vacua with Genetic Algorithms 
+    and Reinforcement Learning
+  year: 2021
+...
