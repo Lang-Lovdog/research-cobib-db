@@ -21,3 +21,34 @@ Damian_2022:
   volume: 82
   year: 2022
 ...
+---
+He2018:
+  ENTRYTYPE: unpublished
+  abstract: We present a pedagogical introduction to the recent advances in the 
+    computational geometry, physical implications, and data science of 
+    Calabi-Yau manifolds. Aimed at the beginning research student and using 
+    Calabi-Yau spaces as an exciting play-ground, we intend to teach some 
+    mathematics to the budding physicist, some physics to the budding 
+    mathematician, and some machine-learning to both. Based on various lecture 
+    series, colloquia and seminars given by the author in the past year, this 
+    writing is a very preliminary draft of a book to appear with Springer, by 
+    whose kind permission we post to ArXiv for comments and suggestions.
+  archivePrefix: arXiv
+  arxivid: 1812.02893v2
+  author:
+  - first: Yang-Hui
+    last: He
+  eprint: http://arxiv.org/abs/1812.02893v2
+  file:
+  - ~/.local/share/cobib/He2018.pdf
+  primaryClass: hep-th
+  tags:
+  - '1910.08605'
+  - '2001.01212'
+  - '2001.00555'
+  - '2003.10445'
+  - '2111.11466'
+  - '2202.06086'
+  title: 'The Calabi-Yau Landscape: from Geometry, to Physics, to Machine-Learning'
+  year: 2018
+...
