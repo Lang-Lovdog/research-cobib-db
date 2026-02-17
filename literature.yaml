@@ -341,3 +341,31 @@ Kaushik_2023:
   volume: 15
   year: 2023
 ...
+---
+Rodriguez_2021:
+  ENTRYTYPE: article
+  author:
+  - first: Luis
+    last: Rodriguez
+  - first: Oscar
+    last: Castillo
+  - first: Mario
+    last: Garcia
+  - first: Jose
+    last: Soria
+  doi: 10.3233/jifs-210459
+  issn: 1875-8967
+  journal: Journal of Intelligent &amp; Fuzzy Systems
+  month: aug
+  number: 1
+  pages: 1657{\textendash}1675
+  publisher: SAGE Publications
+  tags:
+  - metaheuristics
+  title: 'A new meta-heuristic optimization algorithm based on a paradigm from physics:
+    string theory'
+  url:
+  - http://dx.doi.org/10.3233/JIFS-210459
+  volume: 41
+  year: 2021
+...
