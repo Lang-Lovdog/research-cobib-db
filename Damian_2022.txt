@@ -1,0 +1,1 @@
+Este es el documento base sobre el que realizo la investigación de métodos metaheurísticos para el mapeo del landscape dentro de la teoría de cuerdas.
