@@ -43,7 +43,6 @@ He2018:
   - ~/.local/share/cobib/He2018.pdf
   primaryClass: hep-th
   tags:
-  - '2001.01212'
   - '2001.00555'
   - '2003.10445'
   - '2111.11466'
@@ -81,7 +80,6 @@ Ashmore2019:
   - ~/.local/share/cobib/Ashmore2019.pdf
   primaryClass: hep-th
   tags:
-  - '2001.01212'
   - '2001.00555'
   - '2003.10445'
   - '2111.11466'
