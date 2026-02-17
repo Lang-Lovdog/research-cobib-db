@@ -256,3 +256,23 @@ He2022:
     Outlook'
   year: 2022
 ...
+---
+Parr_2020:
+  ENTRYTYPE: article
+  author:
+  - first: Erik
+    last: Parr
+  - first: Patrick K.S.
+    last: Vaudrevange
+  doi: 10.1016/j.nuclphysb.2020.114922
+  issn: 0550-3213
+  journal: Nuclear Physics B
+  month: mar
+  pages: 114922
+  publisher: Elsevier BV
+  title: Contrast data mining for the MSSM from strings
+  url:
+  - http://dx.doi.org/10.1016/j.nuclphysb.2020.114922
+  volume: 952
+  year: 2020
+...
