@@ -317,3 +317,25 @@ Bizet_2020:
   volume: 80
   year: 2020
 ...
+---
+Kaushik_2023:
+  ENTRYTYPE: article
+  author:
+  - first: Deepika
+    last: Kaushik
+  - first: Mohammad
+    last: Nadeem
+  doi: 10.1007/s12530-023-09514-z
+  issn: 1868-6486
+  journal: Evolving Systems
+  month: jul
+  number: 2
+  pages: 429{\textendash}454
+  publisher: Springer Science and Business Media LLC
+  title: 'Confluence metaheuristic: a novel initialization strategy for metaheuristic
+    algorithms'
+  url:
+  - http://dx.doi.org/10.1007/s12530-023-09514-z
+  volume: 15
+  year: 2023
+...
