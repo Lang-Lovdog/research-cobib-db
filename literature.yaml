@@ -92,3 +92,42 @@ Ashmore2019:
   - https://doi.org/10.1002/prop.202000068
   year: 2019
 ...
+---
+Bao2020:
+  ENTRYTYPE: unpublished
+  abstract: In these lecture notes, we survey the landscape of Calabi-Yau 
+    threefolds, and the use of machine learning to explore it. We begin with the
+    compact portion of the landscape, focusing in particular on complete 
+    intersection Calabi-Yau varieties (CICYs) and elliptic fibrations. 
+    Non-compact Calabi-Yau manifolds are manifest in Type II superstring 
+    theories, they arise as representation varieties of quivers, used to 
+    describe gauge theories in the bulk familiar four dimensions. Finally, given
+    the huge amount of Calabi-Yau data, whether and how machine learning can be 
+    applied to algebraic geometry and string landscape is also discussed. These 
+    notes are directed to the beginning graduate student interested in 
+    mathematics and in physics, and are based on lectures given by the 2nd 
+    author at the 2019 PIMS Summer School on Algebraic Geometry in High-Energy 
+    Physics at the University of Saskatchewan.
+  archivePrefix: arXiv
+  arxivid: 2001.01212v2
+  author:
+  - first: Jiakang
+    last: Bao
+  - first: Yang-Hui
+    last: He
+  - first: Edward
+    last: Hirst
+  - first: Stephen
+    last: Pietromonaco
+  eprint: http://arxiv.org/abs/2001.01212v2
+  file:
+  - ~/.local/share/cobib/Bao2020.pdf
+  primaryClass: hep-th
+  tags:
+  - '2001.00555'
+  - '2003.10445'
+  - '2111.11466'
+  - '2202.06086'
+  title: Lectures on the Calabi-Yau Landscape
+  year: 2020
+...
