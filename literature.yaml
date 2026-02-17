@@ -235,3 +235,24 @@ Cole2021:
     and Reinforcement Learning
   year: 2021
 ...
+---
+He2022:
+  ENTRYTYPE: unpublished
+  abstract: We review the recent programme of using machine-learning to explore 
+    the landscape of mathematical problems. With this paradigm as a model for 
+    human intuition - complementary to and in contrast with the more formalistic
+    approach of automated theorem proving - we highlight some experiments on how
+    AI helps with conjecture formulation, pattern recognition and computation.
+  archivePrefix: arXiv
+  arxivid: 2202.06086v1
+  author:
+  - first: Yang-Hui
+    last: He
+  eprint: http://arxiv.org/abs/2202.06086v1
+  file:
+  - ~/.local/share/cobib/He2022.pdf
+  primaryClass: hep-th
+  title: 'From the String Landscape to the Mathematical Landscape: a Machine-Learning
+    Outlook'
+  year: 2022
+...
