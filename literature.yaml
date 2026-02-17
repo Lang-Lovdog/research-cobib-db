@@ -13,6 +13,8 @@ Damian_2022:
   notes: ~/.local/share/cobib/Damian_2022.txt
   number: 12
   publisher: Springer Science and Business Media LLC
+  tags:
+  - mie_tesis
   title: Metastable vacua from torsion and machine learning
   url:
   - http://dx.doi.org/10.1140/epjc/s10052-022-11118-x
