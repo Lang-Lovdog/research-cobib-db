@@ -52,3 +52,43 @@ He2018:
   title: 'The Calabi-Yau Landscape: from Geometry, to Physics, to Machine-Learning'
   year: 2018
 ...
+---
+Ashmore2019:
+  ENTRYTYPE: article
+  abstract: We apply machine learning to the problem of finding numerical 
+    Calabi-Yau metrics. Building on Donaldson's algorithm for calculating 
+    balanced metrics on K{\"a}hler manifolds, we combine conventional curve 
+    fitting and machine-learning techniques to numerically approximate 
+    Ricci-flat metrics. We show that machine learning is able to predict the 
+    Calabi-Yau metric and quantities associated with it, such as its 
+    determinant, having seen only a small sample of training data. Using this in
+    conjunction with a straightforward curve fitting routine, we demonstrate 
+    that it is possible to find highly accurate numerical metrics much more 
+    quickly than by using Donaldson's algorithm alone, with our new 
+    machine-learning algorithm decreasing the time required by between one and 
+    two orders of magnitude.
+  archivePrefix: arXiv
+  arxivid: 1910.08605v2
+  author:
+  - first: Anthony
+    last: Ashmore
+  - first: Yang-Hui
+    last: He
+  - first: Burt
+    last: Ovrut
+  doi: 10.1002/prop.202000068
+  eprint: http://arxiv.org/abs/1910.08605v2
+  file:
+  - ~/.local/share/cobib/Ashmore2019.pdf
+  primaryClass: hep-th
+  tags:
+  - '2001.01212'
+  - '2001.00555'
+  - '2003.10445'
+  - '2111.11466'
+  - '2202.06086'
+  title: Machine learning Calabi-Yau metrics
+  url:
+  - https://doi.org/10.1002/prop.202000068
+  year: 2019
+...
