@@ -276,3 +276,24 @@ Parr_2020:
   volume: 952
   year: 2020
 ...
+---
+Erbin_2021:
+  ENTRYTYPE: article
+  author:
+  - first: Harold
+    last: Erbin
+  - first: Riccardo
+    last: Finotello
+  doi: 10.1103/physrevd.103.126014
+  issn: 2470-0029
+  journal: Physical Review D
+  month: jun
+  number: 12
+  publisher: American Physical Society (APS)
+  title: 'Machine learning for complete intersection Calabi-Yau manifolds: A methodological
+    study'
+  url:
+  - http://dx.doi.org/10.1103/PhysRevD.103.126014
+  volume: 103
+  year: 2021
+...
