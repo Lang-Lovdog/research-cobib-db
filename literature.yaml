@@ -308,6 +308,8 @@ Bizet_2020:
   month: aug
   number: 8
   publisher: Springer Science and Business Media LLC
+  tags:
+  - ml_stringtheory
   title: Testing swampland conjectures with machine learning
   url:
   - http://dx.doi.org/10.1140/epjc/s10052-020-8332-9
