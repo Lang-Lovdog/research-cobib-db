@@ -42,7 +42,8 @@ He2018:
   file:
   - ~/.local/share/cobib/He2018.pdf
   primaryClass: hep-th
-  tags: []
+  tags:
+  - ml_stringtheory
   title: 'The Calabi-Yau Landscape: from Geometry, to Physics, to Machine-Learning'
   year: 2018
 ...
@@ -75,7 +76,8 @@ Ashmore2019:
   file:
   - ~/.local/share/cobib/Ashmore2019.pdf
   primaryClass: hep-th
-  tags: []
+  tags:
+  - ml_stringtheory
   title: Machine learning Calabi-Yau metrics
   url:
   - https://doi.org/10.1002/prop.202000068
@@ -112,7 +114,8 @@ Bao2020:
   file:
   - ~/.local/share/cobib/Bao2020.pdf
   primaryClass: hep-th
-  tags: []
+  tags:
+  - ml_stringtheory
   title: Lectures on the Calabi-Yau Landscape
   year: 2020
 ...
@@ -145,7 +148,8 @@ Halverson2020:
   file:
   - ~/.local/share/cobib/Halverson2020.pdf
   primaryClass: hep-th
-  tags: []
+  tags:
+  - ml_stringtheory
   title: Statistical Predictions in String Theory and Deep Generative Models
   url:
   - https://doi.org/10.1002/prop.202000005
@@ -178,7 +182,8 @@ Gal2020:
   file:
   - ~/.local/share/cobib/Gal2020.pdf
   primaryClass: hep-ph
-  tags: []
+  tags:
+  - ml_stringtheory
   title: 'Baryons from Mesons: A Machine Learning Perspective'
   year: 2020
 ...
@@ -209,7 +214,8 @@ Cole2021:
   file:
   - ~/.local/share/cobib/Cole2021.pdf
   primaryClass: hep-th
-  tags: []
+  tags:
+  - ml_stringtheory
   title: Probing the Structure of String Theory Vacua with Genetic Algorithms 
     and Reinforcement Learning
   year: 2021
@@ -231,6 +237,8 @@ He2022:
   file:
   - ~/.local/share/cobib/He2022.pdf
   primaryClass: hep-th
+  tags:
+  - ml_stringtheory
   title: 'From the String Landscape to the Mathematical Landscape: a Machine-Learning
     Outlook'
   year: 2022
@@ -249,6 +257,8 @@ Parr_2020:
   month: mar
   pages: 114922
   publisher: Elsevier BV
+  tags:
+  - ml_stringtheory
   title: Contrast data mining for the MSSM from strings
   url:
   - http://dx.doi.org/10.1016/j.nuclphysb.2020.114922
@@ -269,6 +279,8 @@ Erbin_2021:
   month: jun
   number: 12
   publisher: American Physical Society (APS)
+  tags:
+  - ml_stringtheory
   title: 'Machine learning for complete intersection Calabi-Yau manifolds: A methodological
     study'
   url:
