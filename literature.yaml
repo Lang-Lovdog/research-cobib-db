@@ -131,3 +131,41 @@ Bao2020:
   title: Lectures on the Calabi-Yau Landscape
   year: 2020
 ...
+---
+Halverson2020:
+  ENTRYTYPE: article
+  abstract: Generative models in deep learning allow for sampling probability 
+    distributions that approximate data distributions. We propose using 
+    generative models for making approximate statistical predictions in the 
+    string theory landscape. For vacua admitting a Lagrangian description this 
+    can be thought of as learning random tensor approximations of couplings. As 
+    a concrete proof-of-principle, we demonstrate in a large ensemble of 
+    Calabi-Yau manifolds that Kahler metrics evaluated at points in Kahler 
+    moduli space are well-approximated by ensembles of matrices produced by a 
+    deep convolutional Wasserstein GAN. Accurate approximations of the Kahler 
+    metric eigenspectra are achieved with far fewer than $h^{11}$ Gaussian 
+    draws. Accurate extrapolation to values of $h^{11}$ outside the training set
+    are achieved via a conditional GAN. Together, these results implicitly 
+    suggest the existence of strong correlations in the data, as might be 
+    expected if Reid's fantasy is correct.
+  archivePrefix: arXiv
+  arxivid: 2001.00555v1
+  author:
+  - first: James
+    last: Halverson
+  - first: Cody
+    last: Long
+  doi: 10.1002/prop.202000005
+  eprint: http://arxiv.org/abs/2001.00555v1
+  file:
+  - ~/.local/share/cobib/Halverson2020.pdf
+  primaryClass: hep-th
+  tags:
+  - '2003.10445'
+  - '2111.11466'
+  - '2202.06086'
+  title: Statistical Predictions in String Theory and Deep Generative Models
+  url:
+  - https://doi.org/10.1002/prop.202000005
+  year: 2020
+...
