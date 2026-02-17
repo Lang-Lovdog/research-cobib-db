@@ -369,3 +369,31 @@ Rodriguez_2021:
   volume: 41
   year: 2021
 ...
+---
+Morales_Casta_eda_2020:
+  ENTRYTYPE: article
+  author:
+  - first: Bernardo
+    last: Morales-Castañeda
+  - first: Daniel
+    last: Zaldívar
+  - first: Erik
+    last: Cuevas
+  - first: Fernando
+    last: Fausto
+  - first: Alma
+    last: Rodríguez
+  doi: 10.1016/j.swevo.2020.100671
+  issn: 2210-6502
+  journal: Swarm and Evolutionary Computation
+  month: may
+  pages: 100671
+  publisher: Elsevier BV
+  tags:
+  - metaheuristics
+  title: 'A better balance in metaheuristic algorithms: Does it exist?'
+  url:
+  - http://dx.doi.org/10.1016/j.swevo.2020.100671
+  volume: 54
+  year: 2020
+...
