@@ -42,8 +42,7 @@ He2018:
   file:
   - ~/.local/share/cobib/He2018.pdf
   primaryClass: hep-th
-  tags:
-  - '2202.06086'
+  tags: []
   title: 'The Calabi-Yau Landscape: from Geometry, to Physics, to Machine-Learning'
   year: 2018
 ...
@@ -76,8 +75,7 @@ Ashmore2019:
   file:
   - ~/.local/share/cobib/Ashmore2019.pdf
   primaryClass: hep-th
-  tags:
-  - '2202.06086'
+  tags: []
   title: Machine learning Calabi-Yau metrics
   url:
   - https://doi.org/10.1002/prop.202000068
@@ -114,8 +112,7 @@ Bao2020:
   file:
   - ~/.local/share/cobib/Bao2020.pdf
   primaryClass: hep-th
-  tags:
-  - '2202.06086'
+  tags: []
   title: Lectures on the Calabi-Yau Landscape
   year: 2020
 ...
@@ -148,8 +145,7 @@ Halverson2020:
   file:
   - ~/.local/share/cobib/Halverson2020.pdf
   primaryClass: hep-th
-  tags:
-  - '2202.06086'
+  tags: []
   title: Statistical Predictions in String Theory and Deep Generative Models
   url:
   - https://doi.org/10.1002/prop.202000005
@@ -182,8 +178,7 @@ Gal2020:
   file:
   - ~/.local/share/cobib/Gal2020.pdf
   primaryClass: hep-ph
-  tags:
-  - '2202.06086'
+  tags: []
   title: 'Baryons from Mesons: A Machine Learning Perspective'
   year: 2020
 ...
@@ -214,8 +209,7 @@ Cole2021:
   file:
   - ~/.local/share/cobib/Cole2021.pdf
   primaryClass: hep-th
-  tags:
-  - '2202.06086'
+  tags: []
   title: Probing the Structure of String Theory Vacua with Genetic Algorithms 
     and Reinforcement Learning
   year: 2021
