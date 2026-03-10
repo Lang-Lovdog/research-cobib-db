@@ -465,3 +465,21 @@ Cotta_2017:
   volume: 23
   year: 2017
 ...
+---
+Yang_2016:
+  ENTRYTYPE: inbook
+  author:
+  - first: Xin-She
+    last: Yang
+  booktitle: Advances in Unconventional Computing
+  doi: 10.1007/978-3-319-33921-4_20
+  isbn: 9783319339214
+  issn: 2194-7295
+  month: jul
+  pages: 543{\textendash}560
+  publisher: Springer International Publishing
+  title: 'Nature-Inspired Computation: An Unconventional Approach to Optimization'
+  url:
+  - http://dx.doi.org/10.1007/978-3-319-33921-4_20
+  year: 2016
+...
