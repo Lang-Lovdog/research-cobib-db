@@ -511,3 +511,46 @@ Cui_2012:
   volume: 34
   year: 2012
 ...
+---
+Game2020:
+  ENTRYTYPE: unpublished
+  abstract: In today's day and time solving real-world complex problems has 
+    become fundamentally vital and critical task. Many of these are 
+    combinatorial problems, where optimal solutions are sought rather than exact
+    solutions. Traditional optimization methods are found to be effective for 
+    small scale problems. However, for real-world large scale problems, 
+    traditional methods either do not scale up or fail to obtain optimal 
+    solutions or they end-up giving solutions after a long running time. Even 
+    earlier artificial intelligence based techniques used to solve these 
+    problems could not give acceptable results. However, last two decades have 
+    seen many new methods in AI based on the characteristics and behaviors of 
+    the living organisms in the nature which are categorized as bio-inspired or 
+    nature inspired optimization algorithms. These methods, are also termed 
+    meta-heuristic optimization methods, have been proved theoretically and 
+    implemented using simulation as well used to create many useful 
+    applications. They have been used extensively to solve many industrial and 
+    engineering complex problems due to being easy to understand, flexible, 
+    simple to adapt to the problem at hand and most importantly their ability to
+    come out of local optima traps. This local optima avoidance property helps 
+    in finding global optimal solutions. This paper is aimed at understanding 
+    how nature has inspired many optimization algorithms, basic categorization 
+    of them, major bio-inspired optimization algorithms invented in recent time 
+    with their applications.
+  archivePrefix: arXiv
+  arxivid: 2003.11637v1
+  author:
+  - first: Pravin S
+    last: Game
+  - first: Vinod
+    last: Vaze
+  - first: Emmanuel
+    last: M
+  eprint: http://arxiv.org/abs/2003.11637v1
+  file:
+  - ~/.local/share/cobib/Game2020.pdf
+  primaryClass: cs.NE
+  tags:
+  - reporte01
+  title: 'Bio-inspired Optimization: metaheuristic algorithms for optimization'
+  year: 2020
+...
