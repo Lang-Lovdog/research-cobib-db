@@ -445,3 +445,23 @@ Molina_2025:
   volume: 98
   year: 2025
 ...
+---
+Cotta_2017:
+  ENTRYTYPE: article
+  author:
+  - first: Carlos
+    last: Cotta
+  - first: Robert
+    last: Schaefer
+  doi: 10.1016/j.jocs.2017.11.010
+  issn: 1877-7503
+  journal: Journal of Computational Science
+  month: nov
+  pages: 192{\textendash}194
+  publisher: Elsevier BV
+  title: Bioinspired algorithms and complex systems
+  url:
+  - http://dx.doi.org/10.1016/j.jocs.2017.11.010
+  volume: 23
+  year: 2017
+...
