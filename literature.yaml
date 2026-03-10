@@ -459,6 +459,8 @@ Cotta_2017:
   month: nov
   pages: 192{\textendash}194
   publisher: Elsevier BV
+  tags:
+  - reporte01
   title: Bioinspired algorithms and complex systems
   url:
   - http://dx.doi.org/10.1016/j.jocs.2017.11.010
