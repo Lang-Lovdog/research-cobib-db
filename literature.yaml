@@ -420,3 +420,28 @@ Sadeeq_2023:
   volume: 19
   year: 2023
 ...
+---
+Molina_2025:
+  ENTRYTYPE: article
+  author:
+  - first: Daniel
+    last: Molina
+  - first: Javier
+    last: Del Ser
+  - first: Javier
+    last: Poyatos
+  - first: Francisco
+    last: Herrera
+  doi: 10.1016/j.swevo.2025.102063
+  issn: 2210-6502
+  journal: Swarm and Evolutionary Computation
+  month: oct
+  pages: 102063
+  publisher: Elsevier BV
+  title: 'The paradox of success in evolutionary and bioinspired optimization: Revisiting
+    critical issues, key studies, and methodological pathways'
+  url:
+  - http://dx.doi.org/10.1016/j.swevo.2025.102063
+  volume: 98
+  year: 2025
+...
