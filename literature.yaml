@@ -483,3 +483,26 @@ Yang_2016:
   - http://dx.doi.org/10.1007/978-3-319-33921-4_20
   year: 2016
 ...
+---
+Cui_2012:
+  ENTRYTYPE: article
+  author:
+  - first: Zhihua
+    last: Cui
+  - first: Zhongzhi
+    last: Shi
+  - first: Janos
+    last: Abonyi
+  doi: 10.1177/0142331211419453
+  issn: 1477-0369
+  journal: Transactions of the Institute of Measurement and Control
+  month: jul
+  number: 6
+  pages: 665{\textendash}667
+  publisher: SAGE Publications
+  title: New trends on bio-inspired computation
+  url:
+  - http://dx.doi.org/10.1177/0142331211419453
+  volume: 34
+  year: 2012
+...
