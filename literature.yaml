@@ -574,3 +574,21 @@ Becker2007:
   - https://openlibrary.org/books/OL7767114M/String_Theory_and_M-Theory
   year: 2007
 ...
+---
+Rickles_2014:
+  ENTRYTYPE: book
+  author:
+  - first: Dean
+    last: Rickles
+  doi: 10.1007/978-3-642-45128-7
+  isbn: 9783642451287
+  issn: 2197-6619
+  journal: The Frontiers Collection
+  publisher: Springer Berlin Heidelberg
+  tags:
+  - reporte01
+  title: 'A Brief History of String Theory: From Dual Models to M-Theory'
+  url:
+  - http://dx.doi.org/10.1007/978-3-642-45128-7
+  year: 2014
+...
