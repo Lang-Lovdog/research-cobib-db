@@ -554,3 +554,23 @@ Game2020:
   title: 'Bio-inspired Optimization: metaheuristic algorithms for optimization'
   year: 2020
 ...
+---
+Becker2007:
+  ENTRYTYPE: book
+  author:
+  - first: Katrin
+    last: Becker
+  - first: Melanie
+    last: Becker
+  - first: John H.
+    last: Schwarz
+  date: January 15, 2007
+  pages: 756
+  publisher: Cambridge University Press
+  tags:
+  - reporte01
+  title: String Theory and M-Theory
+  url:
+  - https://openlibrary.org/books/OL7767114M/String_Theory_and_M-Theory
+  year: 2007
+...
