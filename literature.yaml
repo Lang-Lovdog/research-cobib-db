@@ -751,3 +751,28 @@ Wolpert_1997:
   volume: 1
   year: 1997
 ...
+---
+Kirkpatrick_1983:
+  ENTRYTYPE: article
+  author:
+  - first: S.
+    last: Kirkpatrick
+  - first: C. D.
+    last: Gelatt
+  - first: M. P.
+    last: Vecchi
+  doi: 10.1126/science.220.4598.671
+  issn: 1095-9203
+  journal: Science
+  month: may
+  number: 4598
+  pages: 671{\textendash}680
+  publisher: American Association for the Advancement of Science (AAAS)
+  tags:
+  - tesisprop
+  title: Optimization by Simulated Annealing
+  url:
+  - http://dx.doi.org/10.1126/science.220.4598.671
+  volume: 220
+  year: 1983
+...
