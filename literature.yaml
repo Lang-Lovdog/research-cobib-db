@@ -684,3 +684,32 @@ Du_2004:
   volume: 47
   year: 2004
 ...
+---
+WOS:A1985ACW9900019:
+  ENTRYTYPE: article
+  address: 70 MAIN ST, PETERBOROUGH, NH 03458
+  author:
+  - first: T
+    last: MCMILLAN
+  da: '2026-03-15'
+  doc-delivery-number: ACW99
+  issn: 0279-4721
+  journal: POPULAR COMPUTING
+  language: English
+  number: 6
+  number-of-cited-references: 0
+  pages: 67
+  publisher: BYTE PUBL INC
+  research-areas: Computer Science
+  times-cited: 0
+  title: SCIENTIFIC COMPUTING
+  type: Editorial Material
+  unique-id: WOS:A1985ACW9900019
+  usage-count-last-180-days: 0
+  usage-count-since-2013: 0
+  volume: 4
+  web-of-science-categories: "Computer Science, Hardware \\& Architecture; Computer
+    Science, Software\nEngineering"
+  web-of-science-index: Science Citation Index Expanded (SCI-EXPANDED)
+  year: 1985
+...
