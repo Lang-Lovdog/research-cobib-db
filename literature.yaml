@@ -663,3 +663,24 @@ Wilson_2014:
   volume: 12
   year: 2014
 ...
+---
+Du_2004:
+  ENTRYTYPE: article
+  author:
+  - first: Qiang
+    last: Du
+  doi: 10.1007/bf02894554
+  issn: 1862-2763
+  journal: 'Science in China Series A: Mathematics'
+  month: jan
+  number: S1
+  pages: 1{\textendash}3
+  publisher: Springer Science and Business Media LLC
+  tags:
+  - reporte01
+  title: Some perspective on the Large Scale Scientific Computation Research
+  url:
+  - http://dx.doi.org/10.1007/bf02894554
+  volume: 47
+  year: 2004
+...
