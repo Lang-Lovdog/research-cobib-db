@@ -593,3 +593,47 @@ Rickles_2014:
   - http://dx.doi.org/10.1007/978-3-642-45128-7
   year: 2014
 ...
+---
+Wilson_2014:
+  ENTRYTYPE: article
+  author:
+  - first: Greg
+    last: Wilson
+  - first: D. A.
+    last: Aruliah
+  - first: C. Titus
+    last: Brown
+  - first: Neil P.
+    last: Chue Hong
+  - first: Matt
+    last: Davis
+  - first: Richard T.
+    last: Guy
+  - first: Steven H. D.
+    last: Haddock
+  - first: Kathryn D.
+    last: Huff
+  - first: Ian M.
+    last: Mitchell
+  - first: Mark D.
+    last: Plumbley
+  - first: Ben
+    last: Waugh
+  - first: Ethan P.
+    last: White
+  - first: Paul
+    last: Wilson
+  doi: 10.1371/journal.pbio.1001745
+  editor: Eisen, Jonathan A.
+  issn: 1545-7885
+  journal: PLoS Biology
+  month: jan
+  number: 1
+  pages: e1001745
+  publisher: Public Library of Science (PLoS)
+  title: Best Practices for Scientific Computing
+  url:
+  - http://dx.doi.org/10.1371/journal.pbio.1001745
+  volume: 12
+  year: 2014
+...
