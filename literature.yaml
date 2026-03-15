@@ -18,7 +18,6 @@ Damian_2022:
   - ml_stringtheory
   - reporte01
   - reporte01
-  - tesisprop
   title: Metastable vacua from torsion and machine learning
   url:
   - http://dx.doi.org/10.1140/epjc/s10052-022-11118-x
@@ -49,7 +48,6 @@ He2018:
   tags:
   - ml_stringtheory
   - reporte01
-  - tesisprop
   title: 'The Calabi-Yau Landscape: from Geometry, to Physics, to Machine-Learning'
   year: 2018
 ...
@@ -85,7 +83,6 @@ Ashmore2019:
   tags:
   - ml_stringtheory
   - reporte01
-  - tesisprop
   title: Machine learning Calabi-Yau metrics
   url:
   - https://doi.org/10.1002/prop.202000068
@@ -125,7 +122,6 @@ Bao2020:
   tags:
   - ml_stringtheory
   - reporte01
-  - tesisprop
   title: Lectures on the Calabi-Yau Landscape
   year: 2020
 ...
@@ -161,7 +157,6 @@ Halverson2020:
   tags:
   - ml_stringtheory
   - reporte01
-  - tesisprop
   title: Statistical Predictions in String Theory and Deep Generative Models
   url:
   - https://doi.org/10.1002/prop.202000005
@@ -197,7 +192,6 @@ Gal2020:
   tags:
   - ml_stringtheory
   - reporte01
-  - tesisprop
   title: 'Baryons from Mesons: A Machine Learning Perspective'
   year: 2020
 ...
@@ -231,7 +225,6 @@ Cole2021:
   tags:
   - ml_stringtheory
   - reporte01
-  - tesisprop
   title: Probing the Structure of String Theory Vacua with Genetic Algorithms 
     and Reinforcement Learning
   year: 2021
@@ -256,7 +249,6 @@ He2022:
   tags:
   - ml_stringtheory
   - reporte01
-  - tesisprop
   title: 'From the String Landscape to the Mathematical Landscape: a Machine-Learning
     Outlook'
   year: 2022
@@ -278,7 +270,6 @@ Parr_2020:
   tags:
   - ml_stringtheory
   - reporte01
-  - tesisprop
   title: Contrast data mining for the MSSM from strings
   url:
   - http://dx.doi.org/10.1016/j.nuclphysb.2020.114922
@@ -302,7 +293,6 @@ Erbin_2021:
   tags:
   - ml_stringtheory
   - reporte01
-  - tesisprop
   title: 'Machine learning for complete intersection Calabi-Yau manifolds: A methodological
     study'
   url:
@@ -333,7 +323,6 @@ Bizet_2020:
   tags:
   - ml_stringtheory
   - reporte01
-  - tesisprop
   title: Testing swampland conjectures with machine learning
   url:
   - http://dx.doi.org/10.1140/epjc/s10052-020-8332-9
@@ -358,7 +347,6 @@ Kaushik_2023:
   tags:
   - metaheuristics
   - reporte01
-  - tesisprop
   title: 'Confluence metaheuristic: a novel initialization strategy for metaheuristic
     algorithms'
   url:
@@ -388,7 +376,6 @@ Rodriguez_2021:
   tags:
   - metaheuristics
   - reporte01
-  - tesisprop
   title: 'A new meta-heuristic optimization algorithm based on a paradigm from physics:
     string theory'
   url:
@@ -419,7 +406,6 @@ Morales_Casta_eda_2020:
   tags:
   - metaheuristics
   - reporte01
-  - tesisprop
   title: 'A better balance in metaheuristic algorithms: Does it exist?'
   url:
   - http://dx.doi.org/10.1016/j.swevo.2020.100671
@@ -444,7 +430,6 @@ Sadeeq_2023:
   tags:
   - metaheuristics
   - reporte01
-  - tesisprop
   title: 'Metaheuristics: A Review of Algorithms'
   url:
   - http://dx.doi.org/10.3991/ijoe.v19i09.39683
@@ -471,7 +456,6 @@ Molina_2025:
   publisher: Elsevier BV
   tags:
   - reporte01
-  - tesisprop
   title: 'The paradox of success in evolutionary and bioinspired optimization: Revisiting
     critical issues, key studies, and methodological pathways'
   url:
@@ -495,7 +479,6 @@ Cotta_2017:
   publisher: Elsevier BV
   tags:
   - reporte01
-  - tesisprop
   title: Bioinspired algorithms and complex systems
   url:
   - http://dx.doi.org/10.1016/j.jocs.2017.11.010
@@ -518,7 +501,6 @@ Yang_2016:
   tags:
   - reporte01
   - metaheuristics
-  - tesisprop
   title: 'Nature-Inspired Computation: An Unconventional Approach to Optimization'
   url:
   - http://dx.doi.org/10.1007/978-3-319-33921-4_20
@@ -543,7 +525,6 @@ Cui_2012:
   publisher: SAGE Publications
   tags:
   - reporte01
-  - tesisprop
   title: New trends on bio-inspired computation
   url:
   - http://dx.doi.org/10.1177/0142331211419453
@@ -590,7 +571,6 @@ Game2020:
   primaryClass: cs.NE
   tags:
   - reporte01
-  - tesisprop
   title: 'Bio-inspired Optimization: metaheuristic algorithms for optimization'
   year: 2020
 ...
@@ -609,7 +589,6 @@ Becker2007:
   publisher: Cambridge University Press
   tags:
   - reporte01
-  - tesisprop
   title: String Theory and M-Theory
   url:
   - https://openlibrary.org/books/OL7767114M/String_Theory_and_M-Theory
@@ -628,7 +607,6 @@ Rickles_2014:
   publisher: Springer Berlin Heidelberg
   tags:
   - reporte01
-  - tesisprop
   title: 'A Brief History of String Theory: From Dual Models to M-Theory'
   url:
   - http://dx.doi.org/10.1007/978-3-642-45128-7
