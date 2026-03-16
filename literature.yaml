@@ -796,3 +796,19 @@ Eiben_2015:
   - http://dx.doi.org/10.1007/978-3-662-44874-8
   year: 2015
 ...
+---
+Yang2017:
+  ENTRYTYPE: book
+  author:
+  - first: Xin-She
+    last: Yang
+  date: Oct 10, 2017
+  pages: 330
+  publisher: Springer
+  tags:
+  - tesisprop
+  title: Nature-Inspired Algorithms and Applied Optimization
+  url:
+  - https://openlibrary.org/books/OL27946749M/Nature-Inspired_Algorithms_and_Applied_Optimization
+  year: 2017
+...
