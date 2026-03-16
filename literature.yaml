@@ -812,3 +812,25 @@ Yang2017:
   - https://openlibrary.org/books/OL27946749M/Nature-Inspired_Algorithms_and_Applied_Optimization
   year: 2017
 ...
+---
+Prasad_2014:
+  ENTRYTYPE: article
+  author:
+  - first: J
+    last: Prasad
+  - first: T
+    last: Souradeep
+  doi: 10.1088/1742-6596/484/1/012047
+  issn: 1742-6596
+  journal: 'Journal of Physics: Conference Series'
+  month: mar
+  pages: 12047
+  publisher: IOP Publishing
+  tags:
+  - tesisprop
+  title: Cosmological parameter estimation using Particle Swarm Optimization
+  url:
+  - http://dx.doi.org/10.1088/1742-6596/484/1/012047
+  volume: 484
+  year: 2014
+...
