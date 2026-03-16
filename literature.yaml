@@ -868,3 +868,24 @@ YANG20203:
   - https://www.sciencedirect.com/science/article/pii/B9780128197141000105
   year: 2020
 ...
+---
+Lones_2014:
+  ENTRYTYPE: inproceedings
+  author:
+  - first: Michael A.
+    last: Lones
+  booktitle: Proceedings of the Companion Publication of the 2014 Annual 
+    Conference on Genetic and Evolutionary Computation
+  collection: GECCO {\textquoteright}14
+  doi: 10.1145/2598394.2609841
+  month: jul
+  pages: 1419{\textendash}1422
+  publisher: ACM
+  series: GECCO {\textquoteright}14
+  tags:
+  - tesisprop
+  title: Metaheuristics in nature-inspired algorithms
+  url:
+  - http://dx.doi.org/10.1145/2598394.2609841
+  year: 2014
+...
