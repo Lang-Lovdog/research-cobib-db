@@ -834,3 +834,37 @@ Prasad_2014:
   volume: 484
   year: 2014
 ...
+---
+YANG20203:
+  ENTRYTYPE: incollection
+  abstract: Nature-inspired algorithms can be flexible and efficient for solving
+    optimization problems. There are a wide spectrum of nature-inspired 
+    algorithms in the literature, and most of such algorithms are based on swarm
+    intelligence. This chapter provides an overview of some widely used 
+    algorithms for optimization. Their main characteristics will be discussed in
+    comparison with traditional algorithms such as gradient-based algorithms. 
+    Some open problems concerning swarm intelligence and nature-inspired 
+    computation will be highlighted.
+  author:
+  - first: Xin-She
+    last: Yang
+  - first: Mehmet
+    last: Karamanoglu
+  booktitle: Nature-Inspired Computation and Swarm Intelligence
+  doi: https://doi.org/10.1016/B978-0-12-819714-1.00010-5
+  editor: Xin-She Yang
+  isbn: 978-0-12-819714-1
+  keywords: algorithm, ant colony optimization, bat algorithm, cuckoo search, 
+    differential evolution, firefly algorithm, flower pollination algorithm, 
+    genetic algorithm, nature-inspired computation, optimization, particle swarm
+    optimization, swarm intelligence
+  pages: 3-18
+  publisher: Academic Press
+  tags:
+  - tesisprop
+  title: 'Chapter 1 - Nature-inspired computation and swarm intelligence: a state-of-the-art
+    overview'
+  url:
+  - https://www.sciencedirect.com/science/article/pii/B9780128197141000105
+  year: 2020
+...
