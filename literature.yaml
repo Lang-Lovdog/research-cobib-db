@@ -1076,3 +1076,22 @@ Yang2010:
   - https://openlibrary.org/books/OL35708732M/Nature-Inspired_Metaheuristic_Algorithms
   year: 2010
 ...
+---
+Holland_1992:
+  ENTRYTYPE: book
+  author:
+  - first: John H.
+    last: Holland
+  doi: 10.7551/mitpress/1090.001.0001
+  isbn: 9780262275552
+  month: apr
+  publisher: The MIT Press
+  tags:
+  - tesisprop
+  - last
+  title: 'Adaptation in Natural and Artificial Systems: An Introductory Analysis with
+    Applications to Biology, Control, and Artificial Intelligence'
+  url:
+  - http://dx.doi.org/10.7551/mitpress/1090.001.0001
+  year: 1992
+...
