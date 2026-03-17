@@ -1174,3 +1174,24 @@ Ooguri_2007:
   volume: 766
   year: 2007
 ...
+---
+Palti_2019:
+  ENTRYTYPE: article
+  author:
+  - first: Eran
+    last: Palti
+  doi: 10.1002/prop.201900037
+  issn: 1521-3978
+  journal: Fortschritte der Physik
+  month: apr
+  number: 6
+  publisher: Wiley
+  tags:
+  - tesisprop
+  - last
+  title: 'The Swampland: Introduction and Review'
+  url:
+  - http://dx.doi.org/10.1002/prop.201900037
+  volume: 67
+  year: 2019
+...
