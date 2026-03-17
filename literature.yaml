@@ -152,7 +152,6 @@ Halverson2020:
   primaryClass: hep-th
   tags:
   - ml_stringtheory
-  - last
   title: Statistical Predictions in String Theory and Deep Generative Models
   url:
   - https://doi.org/10.1002/prop.202000005
@@ -219,7 +218,6 @@ Cole2021:
   primaryClass: hep-th
   tags:
   - ml_stringtheory
-  - last
   title: Probing the Structure of String Theory Vacua with Genetic Algorithms 
     and Reinforcement Learning
   year: 2021
@@ -580,7 +578,6 @@ Becker2007:
   publisher: Cambridge University Press
   tags:
   - reporte01
-  - last
   title: String Theory and M-Theory
   url:
   - https://openlibrary.org/books/OL7767114M/String_Theory_and_M-Theory
@@ -599,7 +596,6 @@ Rickles_2014:
   publisher: Springer Berlin Heidelberg
   tags:
   - reporte01
-  - last
   title: 'A Brief History of String Theory: From Dual Models to M-Theory'
   url:
   - http://dx.doi.org/10.1007/978-3-642-45128-7
