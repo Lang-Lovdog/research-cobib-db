@@ -1036,3 +1036,28 @@ Yenduri_2024:
   volume: 12
   year: 2024
 ...
+---
+Park_2024:
+  ENTRYTYPE: article
+  author:
+  - first: Ki-Seong
+    last: Park
+  - first: Hongyoon
+    last: Choi
+  doi: 10.1007/s13139-024-00876-z
+  issn: 1869-3482
+  journal: Nuclear Medicine and Molecular Imaging
+  month: aug
+  number: 6
+  pages: 323{\textendash}331
+  publisher: Springer Science and Business Media LLC
+  tags:
+  - tesisprop
+  - last
+  title: 'How to Harness the Power of GPT for Scientific Research: A Comprehensive
+    Review of Methodologies, Applications, and Ethical Considerations'
+  url:
+  - http://dx.doi.org/10.1007/s13139-024-00876-z
+  volume: 58
+  year: 2024
+...
