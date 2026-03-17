@@ -993,3 +993,46 @@ WOS:000975679700001:
   web-of-science-index: Science Citation Index Expanded (SCI-EXPANDED)
   year: 2023
 ...
+---
+Yenduri_2024:
+  ENTRYTYPE: article
+  author:
+  - first: Gokul
+    last: Yenduri
+  - first: M.
+    last: Ramalingam
+  - first: G. Chemmalar
+    last: Selvi
+  - first: Y.
+    last: Supriya
+  - first: Gautam
+    last: Srivastava
+  - first: Praveen Kumar Reddy
+    last: Maddikunta
+  - first: G. Deepti
+    last: Raj
+  - first: Rutvij H.
+    last: Jhaveri
+  - first: B.
+    last: Prabadevi
+  - first: Weizheng
+    last: Wang
+  - first: Athanasios V.
+    last: Vasilakos
+  - first: Thippa Reddy
+    last: Gadekallu
+  doi: 10.1109/access.2024.3389497
+  issn: 2169-3536
+  journal: IEEE Access
+  pages: 54608{\textendash}54649
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  tags:
+  - tesisprop
+  title: GPT (Generative Pre-Trained Transformer){\textemdash} A Comprehensive 
+    Review on Enabling Technologies, Potential Applications, Emerging 
+    Challenges, and Future Directions
+  url:
+  - http://dx.doi.org/10.1109/ACCESS.2024.3389497
+  volume: 12
+  year: 2024
+...
