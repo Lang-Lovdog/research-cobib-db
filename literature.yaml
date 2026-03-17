@@ -1060,3 +1060,20 @@ Park_2024:
   volume: 58
   year: 2024
 ...
+---
+Yang2010:
+  ENTRYTYPE: book
+  author:
+  - first: Xin-She
+    last: Yang
+  date: Jul 25, 2010
+  pages: 160
+  publisher: Luniver Press
+  tags:
+  - tesisprop
+  - last
+  title: Nature-Inspired Metaheuristic Algorithms
+  url:
+  - https://openlibrary.org/books/OL35708732M/Nature-Inspired_Metaheuristic_Algorithms
+  year: 2010
+...
