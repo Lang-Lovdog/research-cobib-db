@@ -1094,3 +1094,30 @@ Holland_1992:
   - http://dx.doi.org/10.7551/mitpress/1090.001.0001
   year: 1992
 ...
+---
+Wang_2010:
+  ENTRYTYPE: article
+  author:
+  - first: Yanchao
+    last: Wang
+  - first: Jian
+    last: Lv
+  - first: Li
+    last: Zhu
+  - first: Yanming
+    last: Ma
+  doi: 10.1103/physrevb.82.094116
+  issn: 1550-235X
+  journal: Physical Review B
+  month: sep
+  number: 9
+  publisher: American Physical Society (APS)
+  tags:
+  - tesisprop
+  - latest
+  title: Crystal structure prediction via particle-swarm optimization
+  url:
+  - http://dx.doi.org/10.1103/PhysRevB.82.094116
+  volume: 82
+  year: 2010
+...
