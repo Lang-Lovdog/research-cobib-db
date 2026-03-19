@@ -1275,3 +1275,25 @@ Gao_2022:
   volume: 105
   year: 2022
 ...
+---
+De_Luca_2025:
+  ENTRYTYPE: article
+  author:
+  - first: G. Bruno
+    last: De Luca
+  doi: 10.1007/jhep09(2025)090
+  issn: 1029-8479
+  journal: Journal of High Energy Physics
+  month: sep
+  number: 9
+  publisher: Springer Science and Business Media LLC
+  tags:
+  - tesisprop
+  - last
+  title: Machine Learning gravity compactifications on negatively curved 
+    manifolds
+  url:
+  - http://dx.doi.org/10.1007/JHEP09(2025)090
+  volume: 2025
+  year: 2025
+...
