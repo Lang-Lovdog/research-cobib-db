@@ -1225,3 +1225,27 @@ Megantoro_2025:
   volume: 13
   year: 2025
 ...
+---
+Lanza_2025:
+  ENTRYTYPE: article
+  author:
+  - first: Stefano
+    last: Lanza
+  - first: Alexander
+    last: Westphal
+  doi: 10.1007/jhep05(2025)071
+  issn: 1029-8479
+  journal: Journal of High Energy Physics
+  month: may
+  number: 5
+  publisher: Springer Science and Business Media LLC
+  tags:
+  - tesisprop
+  - last
+  title: 'Uplifts in the penumbra: features of the moduli potential away from infinite-distance
+    boundaries'
+  url:
+  - http://dx.doi.org/10.1007/JHEP05(2025)071
+  volume: 2025
+  year: 2025
+...
