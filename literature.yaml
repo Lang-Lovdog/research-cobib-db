@@ -1193,3 +1193,35 @@ Palti_2019:
   volume: 67
   year: 2019
 ...
+---
+Megantoro_2025:
+  ENTRYTYPE: article
+  author:
+  - first: Prisma
+    last: Megantoro
+  - first: Syahirah Abd
+    last: Halim
+  - first: Nor Azwan Mohamed
+    last: Kamari
+  - first: Lilik Jamilatul
+    last: Awalin
+  - first: Mohd Syukri
+    last: Ali
+  - first: Hazwani Mohd
+    last: Rosli
+  doi: 10.1016/j.egyr.2024.12.020
+  issn: 2352-4847
+  journal: Energy Reports
+  month: jun
+  pages: 397{\textendash}423
+  publisher: Elsevier BV
+  tags:
+  - tesisprop
+  - last
+  title: 'Optimizing reactive power dispatch with metaheuristic algorithms: A review
+    of renewable distributed generation integration with intermittency considerations'
+  url:
+  - http://dx.doi.org/10.1016/j.egyr.2024.12.020
+  volume: 13
+  year: 2025
+...
