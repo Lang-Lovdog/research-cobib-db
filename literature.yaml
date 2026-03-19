@@ -1297,3 +1297,26 @@ De_Luca_2025:
   volume: 2025
   year: 2025
 ...
+---
+Abel_2014:
+  ENTRYTYPE: article
+  author:
+  - first: Steven
+    last: Abel
+  - first: John
+    last: Rizos
+  doi: 10.1007/jhep08(2014)010
+  issn: 1029-8479
+  journal: Journal of High Energy Physics
+  month: aug
+  number: 8
+  publisher: Springer Science and Business Media LLC
+  tags:
+  - tesisprop
+  - last
+  title: Genetic algorithms and the search for viable string vacua
+  url:
+  - http://dx.doi.org/10.1007/JHEP08(2014)010
+  volume: 2014
+  year: 2014
+...
