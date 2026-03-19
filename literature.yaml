@@ -313,6 +313,7 @@ Bizet_2020:
   tags:
   - tesisprop
   - last
+  - ml_stringtheory
   title: Testing swampland conjectures with machine learning
   url:
   - http://dx.doi.org/10.1140/epjc/s10052-020-8332-9
