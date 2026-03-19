@@ -1251,3 +1251,27 @@ Lanza_2025:
   volume: 2025
   year: 2025
 ...
+---
+Gao_2022:
+  ENTRYTYPE: article
+  author:
+  - first: Xin
+    last: Gao
+  - first: Hao
+    last: Zou
+  doi: 10.1103/physrevd.105.046017
+  issn: 2470-0029
+  journal: Physical Review D
+  month: feb
+  number: 4
+  publisher: American Physical Society (APS)
+  tags:
+  - tesisprop
+  - last
+  title: Applying machine learning to the Calabi-Yau orientifolds with string 
+    vacua
+  url:
+  - http://dx.doi.org/10.1103/PhysRevD.105.046017
+  volume: 105
+  year: 2022
+...
