@@ -1320,3 +1320,28 @@ Abel_2014:
   volume: 2014
   year: 2014
 ...
+---
+He_2025:
+  ENTRYTYPE: article
+  author:
+  - first: Yang-Hui
+    last: He
+  - first: Vishnu
+    last: Jejjala
+  - first: Tomás S.R.
+    last: Silva
+  doi: 10.1016/j.physletb.2025.139365
+  issn: 0370-2693
+  journal: Physics Letters B
+  month: mar
+  pages: 139365
+  publisher: Elsevier BV
+  tags:
+  - tesisprop
+  - last
+  title: Metaheuristic generation of brane tilings
+  url:
+  - http://dx.doi.org/10.1016/j.physletb.2025.139365
+  volume: 862
+  year: 2025
+...
