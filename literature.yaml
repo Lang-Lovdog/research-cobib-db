@@ -1529,3 +1529,29 @@ WOS:000975679700001:
   web-of-science-index: Science Citation Index Expanded (SCI-EXPANDED)
   year: 2023
 ...
+---
+Damian_2013_a:
+  ENTRYTYPE: article
+  author:
+  - first: Cesar
+    last: Damian
+  - first: Luis R.
+    last: Díaz-Barrón
+  - first: Oscar
+    last: Loaiza-Brito
+  - first: M.
+    last: Sabido
+  doi: 10.1007/jhep06(2013)109
+  issn: 1029-8479
+  journal: Journal of High Energy Physics
+  month: jun
+  number: 6
+  publisher: Springer Science and Business Media LLC
+  tags:
+  - tesisprop
+  title: Slow-roll inflation in non-geometric flux compactification
+  url:
+  - http://dx.doi.org/10.1007/JHEP06(2013)109
+  volume: 2013
+  year: 2013
+...
