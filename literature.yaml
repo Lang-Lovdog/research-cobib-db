@@ -1343,3 +1343,27 @@ He_2025:
   volume: 862
   year: 2025
 ...
+---
+Damian_2013:
+  ENTRYTYPE: article
+  author:
+  - first: Cesar
+    last: Damian
+  - first: Luis R.
+    last: Díaz-Barrón
+  - first: Oscar
+    last: Loaiza-Brito
+  - first: M.
+    last: Sabido
+  doi: 10.1007/jhep06(2013)109
+  issn: 1029-8479
+  journal: Journal of High Energy Physics
+  month: jun
+  number: 6
+  publisher: Springer Science and Business Media LLC
+  title: Slow-roll inflation in non-geometric flux compactification
+  url:
+  - http://dx.doi.org/10.1007/JHEP06(2013)109
+  volume: 2013
+  year: 2013
+...
