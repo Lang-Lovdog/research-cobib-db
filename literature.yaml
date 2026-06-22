@@ -1373,22 +1373,23 @@ Damian_2013:
   author:
   - first: Cesar
     last: Damian
-  - first: Luis R.
-    last: Díaz-Barrón
   - first: Oscar
     last: Loaiza-Brito
-  - first: M.
-    last: Sabido
-  doi: 10.1007/jhep06(2013)109
-  issn: 1029-8479
-  journal: Journal of High Energy Physics
-  month: jun
-  number: 6
-  publisher: Springer Science and Business Media LLC
-  title: Slow-roll inflation in non-geometric flux compactification
+  doi: 10.1103/physrevd.88.046008
+  issn: 1550-2368
+  journal: Physical Review D
+  month: aug
+  number: 4
+  publisher: American Physical Society (APS)
+  tags:
+  - tesisprop
+  title: More stable de Sitter vacua from<mml:math 
+    xmlns:mml={\textquotedblleft}http://www.w3.org/1998/Math/MathML{\textquotedblright}
+    display={\textquotedblleft}inline{\textquotedblright}><mml:mi>S</mml:mi></mml:math>-dual
+    nongeometric fluxes
   url:
-  - http://dx.doi.org/10.1007/JHEP06(2013)109
-  volume: 2013
+  - http://dx.doi.org/10.1103/PhysRevD.88.046008
+  volume: 88
   year: 2013
 ...
 ---
