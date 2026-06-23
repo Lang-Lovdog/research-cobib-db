@@ -1555,3 +1555,27 @@ Damian_2013_a:
   volume: 2013
   year: 2013
 ...
+---
+Mehrabian_2006:
+  ENTRYTYPE: article
+  author:
+  - first: A.R.
+    last: Mehrabian
+  - first: C.
+    last: Lucas
+  doi: 10.1016/j.ecoinf.2006.07.003
+  issn: 1574-9541
+  journal: Ecological Informatics
+  month: dec
+  number: 4
+  pages: 355{\textendash}366
+  publisher: Elsevier BV
+  tags:
+  - tesisprop
+  title: A novel numerical optimization algorithm inspired from weed 
+    colonization
+  url:
+  - http://dx.doi.org/10.1016/J.ECOINF.2006.07.003
+  volume: 1
+  year: 2006
+...
