@@ -1605,3 +1605,27 @@ Qin_2006:
   - http://dx.doi.org/10.1007/11785231_48
   year: 2006
 ...
+---
+Kennedy:
+  ENTRYTYPE: inproceedings
+  author:
+  - first: J.
+    last: Kennedy
+  - first: R.
+    last: Eberhart
+  booktitle: Proceedings of ICNN{'}95 - International Conference on Neural 
+    Networks
+  collection: ICNN-95
+  doi: 10.1109/icnn.1995.488968
+  file:
+  - ~/.local/share/cobib/Kennedy.pdf
+  pages: 1942{\textendash}1948
+  publisher: IEEE
+  series: ICNN-95
+  tags:
+  - tesisprop
+  title: Particle swarm optimization
+  url:
+  - http://dx.doi.org/10.1109/icnn.1995.488968
+  volume: 4
+...
