@@ -1579,3 +1579,29 @@ Mehrabian_2006:
   volume: 1
   year: 2006
 ...
+---
+Qin_2006:
+  ENTRYTYPE: inbook
+  author:
+  - first: Zheng
+    last: Qin
+  - first: Fan
+    last: Yu
+  - first: Zhewen
+    last: Shi
+  - first: Yu
+    last: Wang
+  booktitle: Artificial Intelligence and Soft Computing {\textendash} ICAISC 
+    2006
+  doi: 10.1007/11785231_48
+  isbn: 9783540357506
+  issn: 1611-3349
+  pages: 450{\textendash}459
+  publisher: Springer Berlin Heidelberg
+  tags:
+  - tesisprop
+  title: Adaptive Inertia Weight Particle Swarm Optimization
+  url:
+  - http://dx.doi.org/10.1007/11785231_48
+  year: 2006
+...
