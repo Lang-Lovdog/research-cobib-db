@@ -17,6 +17,7 @@ Damian_2022:
   - mie_tesis
   - ml_stringtheory
   - reporte01
+  - metaheuristics
   title: Metastable vacua from torsion and machine learning
   url:
   - http://dx.doi.org/10.1140/epjc/s10052-022-11118-x
@@ -46,6 +47,7 @@ He2018:
   primaryClass: hep-th
   tags:
   - ml_stringtheory
+  - metaheuristics
   title: 'The Calabi-Yau Landscape: from Geometry, to Physics, to Machine-Learning'
   year: 2018
 ...
@@ -80,6 +82,7 @@ Ashmore2019:
   primaryClass: hep-th
   tags:
   - ml_stringtheory
+  - metaheuristics
   title: Machine learning Calabi-Yau metrics
   url:
   - https://doi.org/10.1002/prop.202000068
@@ -118,6 +121,7 @@ Bao2020:
   primaryClass: hep-th
   tags:
   - ml_stringtheory
+  - metaheuristics
   title: Lectures on the Calabi-Yau Landscape
   year: 2020
 ...
@@ -152,6 +156,7 @@ Halverson2020:
   primaryClass: hep-th
   tags:
   - ml_stringtheory
+  - metaheuristics
   title: Statistical Predictions in String Theory and Deep Generative Models
   url:
   - https://doi.org/10.1002/prop.202000005
@@ -186,6 +191,7 @@ Gal2020:
   primaryClass: hep-ph
   tags:
   - ml_stringtheory
+  - metaheuristics
   title: 'Baryons from Mesons: A Machine Learning Perspective'
   year: 2020
 ...
@@ -218,6 +224,7 @@ Cole2021:
   primaryClass: hep-th
   tags:
   - ml_stringtheory
+  - metaheuristics
   title: Probing the Structure of String Theory Vacua with Genetic Algorithms 
     and Reinforcement Learning
   year: 2021
@@ -241,6 +248,7 @@ He2022:
   primaryClass: hep-th
   tags:
   - ml_stringtheory
+  - metaheuristics
   title: 'From the String Landscape to the Mathematical Landscape: a Machine-Learning
     Outlook'
   year: 2022
@@ -261,6 +269,7 @@ Parr_2020:
   publisher: Elsevier BV
   tags:
   - ml_stringtheory
+  - metaheuristics
   title: Contrast data mining for the MSSM from strings
   url:
   - http://dx.doi.org/10.1016/j.nuclphysb.2020.114922
@@ -283,6 +292,7 @@ Erbin_2021:
   publisher: American Physical Society (APS)
   tags:
   - ml_stringtheory
+  - metaheuristics
   title: 'Machine learning for complete intersection Calabi-Yau manifolds: A methodological
     study'
   url:
@@ -314,6 +324,7 @@ Bizet_2020:
   tags:
   - tesisprop
   - ml_stringtheory
+  - metaheuristics
   title: Testing swampland conjectures with machine learning
   url:
   - http://dx.doi.org/10.1140/epjc/s10052-020-8332-9
@@ -338,6 +349,7 @@ Kaushik_2023:
   tags:
   - metaheuristics
   - reporte01
+  - metaheuristics
   title: 'Confluence metaheuristic: a novel initialization strategy for metaheuristic
     algorithms'
   url:
@@ -367,6 +379,7 @@ Rodriguez_2021:
   tags:
   - metaheuristics
   - reporte01
+  - metaheuristics
   title: 'A new meta-heuristic optimization algorithm based on a paradigm from physics:
     string theory'
   url:
@@ -397,6 +410,7 @@ Morales_Casta_eda_2020:
   tags:
   - metaheuristics
   - reporte01
+  - metaheuristics
   title: 'A better balance in metaheuristic algorithms: Does it exist?'
   url:
   - http://dx.doi.org/10.1016/j.swevo.2020.100671
@@ -421,6 +435,7 @@ Sadeeq_2023:
   tags:
   - metaheuristics
   - reporte01
+  - metaheuristics
   title: 'Metaheuristics: A Review of Algorithms'
   url:
   - http://dx.doi.org/10.3991/ijoe.v19i09.39683
@@ -447,6 +462,7 @@ Molina_2025:
   publisher: Elsevier BV
   tags:
   - reporte01
+  - metaheuristics
   title: 'The paradox of success in evolutionary and bioinspired optimization: Revisiting
     critical issues, key studies, and methodological pathways'
   url:
@@ -470,6 +486,7 @@ Cotta_2017:
   publisher: Elsevier BV
   tags:
   - reporte01
+  - metaheuristics
   title: Bioinspired algorithms and complex systems
   url:
   - http://dx.doi.org/10.1016/j.jocs.2017.11.010
@@ -491,6 +508,7 @@ Yang_2016:
   publisher: Springer International Publishing
   tags:
   - reporte01
+  - metaheuristics
   - metaheuristics
   title: 'Nature-Inspired Computation: An Unconventional Approach to Optimization'
   url:
@@ -516,6 +534,7 @@ Cui_2012:
   publisher: SAGE Publications
   tags:
   - reporte01
+  - metaheuristics
   title: New trends on bio-inspired computation
   url:
   - http://dx.doi.org/10.1177/0142331211419453
@@ -562,6 +581,7 @@ Game2020:
   primaryClass: cs.NE
   tags:
   - reporte01
+  - metaheuristics
   title: 'Bio-inspired Optimization: metaheuristic algorithms for optimization'
   year: 2020
 ...
@@ -580,6 +600,7 @@ Becker2007:
   publisher: Cambridge University Press
   tags:
   - reporte01
+  - metaheuristics
   title: String Theory and M-Theory
   url:
   - https://openlibrary.org/books/OL7767114M/String_Theory_and_M-Theory
@@ -598,6 +619,7 @@ Rickles_2014:
   publisher: Springer Berlin Heidelberg
   tags:
   - reporte01
+  - metaheuristics
   title: 'A Brief History of String Theory: From Dual Models to M-Theory'
   url:
   - http://dx.doi.org/10.1007/978-3-642-45128-7
@@ -644,6 +666,7 @@ Wilson_2014:
   publisher: Public Library of Science (PLoS)
   tags:
   - tesisprop
+  - metaheuristics
   title: Best Practices for Scientific Computing
   url:
   - http://dx.doi.org/10.1371/journal.pbio.1001745
@@ -666,6 +689,7 @@ Du_2004:
   publisher: Springer Science and Business Media LLC
   tags:
   - tesisprop
+  - metaheuristics
   title: Some perspective on the Large Scale Scientific Computation Research
   url:
   - http://dx.doi.org/10.1007/bf02894554
@@ -750,6 +774,7 @@ Wolpert_1997:
   publisher: Institute of Electrical and Electronics Engineers (IEEE)
   tags:
   - tesisprop
+  - metaheuristics
   title: No free lunch theorems for optimization
   url:
   - http://dx.doi.org/10.1109/4235.585893
@@ -776,6 +801,7 @@ Kirkpatrick_1983:
   publisher: American Association for the Advancement of Science (AAAS)
   tags:
   - tesisprop
+  - metaheuristics
   title: Optimization by Simulated Annealing
   url:
   - http://dx.doi.org/10.1126/science.220.4598.671
@@ -798,6 +824,7 @@ Eiben_2015:
   publisher: Springer Berlin Heidelberg
   tags:
   - tesisprop
+  - metaheuristics
   title: Introduction to Evolutionary Computing
   url:
   - http://dx.doi.org/10.1007/978-3-662-44874-8
@@ -815,6 +842,7 @@ Yang2017:
   publisher: Springer
   tags:
   - tesisprop
+  - metaheuristics
   title: Nature-Inspired Algorithms and Applied Optimization
   url:
   - https://openlibrary.org/books/OL27946749M/Nature-Inspired_Algorithms_and_Applied_Optimization
@@ -837,6 +865,7 @@ Prasad_2014:
   publisher: IOP Publishing
   tags:
   - tesisprop
+  - metaheuristics
   title: Cosmological parameter estimation using Particle Swarm Optimization
   url:
   - http://dx.doi.org/10.1088/1742-6596/484/1/012047
@@ -872,6 +901,7 @@ YANG20203:
   publisher: Academic Press
   tags:
   - tesisprop
+  - metaheuristics
   title: 'Chapter 1 - Nature-inspired computation and swarm intelligence: a state-of-the-art
     overview'
   url:
@@ -895,6 +925,7 @@ Lones_2014:
   series: GECCO {\textquoteright}14
   tags:
   - tesisprop
+  - metaheuristics
   title: Metaheuristics in nature-inspired algorithms
   url:
   - http://dx.doi.org/10.1145/2598394.2609841
@@ -1040,6 +1071,7 @@ Yenduri_2024:
   publisher: Institute of Electrical and Electronics Engineers (IEEE)
   tags:
   - tesisprop
+  - metaheuristics
   title: GPT (Generative Pre-Trained Transformer){\textemdash} A Comprehensive 
     Review on Enabling Technologies, Potential Applications, Emerging 
     Challenges, and Future Directions
@@ -1066,6 +1098,7 @@ Park_2024:
   publisher: Springer Science and Business Media LLC
   tags:
   - tesisprop
+  - metaheuristics
   title: 'How to Harness the Power of GPT for Scientific Research: A Comprehensive
     Review of Methodologies, Applications, and Ethical Considerations'
   url:
@@ -1085,6 +1118,7 @@ Yang2010:
   publisher: Luniver Press
   tags:
   - tesisprop
+  - metaheuristics
   title: Nature-Inspired Metaheuristic Algorithms
   url:
   - https://openlibrary.org/books/OL35708732M/Nature-Inspired_Metaheuristic_Algorithms
@@ -1107,6 +1141,7 @@ Holland_1992:
   publisher: Springer Science and Business Media LLC
   tags:
   - tesisprop
+  - metaheuristics
   title: Genetic Algorithms
   url:
   - http://dx.doi.org/10.1038/scientificamerican0792-66
@@ -1134,6 +1169,7 @@ Wang_2010:
   publisher: American Physical Society (APS)
   tags:
   - tesisprop
+  - metaheuristics
   title: Crystal structure prediction via particle-swarm optimization
   url:
   - http://dx.doi.org/10.1103/PhysRevB.82.094116
@@ -1168,6 +1204,7 @@ Vafa2005:
   primaryClass: hep-th
   tags:
   - tesisprop
+  - metaheuristics
   title: The String Landscape and the Swampland
   year: 2005
 ...
@@ -1189,6 +1226,7 @@ Ooguri_2007:
   publisher: Elsevier BV
   tags:
   - tesisprop
+  - metaheuristics
   title: On the geometry of the string landscape and the swampland
   url:
   - http://dx.doi.org/10.1016/j.nuclphysb.2006.10.033
@@ -1210,6 +1248,7 @@ Palti_2019:
   publisher: Wiley
   tags:
   - tesisprop
+  - metaheuristics
   title: 'The Swampland: Introduction and Review'
   url:
   - http://dx.doi.org/10.1002/prop.201900037
@@ -1242,6 +1281,7 @@ Megantoro_2025:
   tags:
   - tesisprop
   - last
+  - metaheuristics
   title: 'Optimizing reactive power dispatch with metaheuristic algorithms: A review
     of renewable distributed generation integration with intermittency considerations'
   url:
@@ -1266,6 +1306,7 @@ Lanza_2025:
   publisher: Springer Science and Business Media LLC
   tags:
   - tesisprop
+  - metaheuristics
   title: 'Uplifts in the penumbra: features of the moduli potential away from infinite-distance
     boundaries'
   url:
@@ -1290,6 +1331,7 @@ Gao_2022:
   publisher: American Physical Society (APS)
   tags:
   - tesisprop
+  - metaheuristics
   title: Applying machine learning to the Calabi-Yau orientifolds with string 
     vacua
   url:
@@ -1312,6 +1354,7 @@ De_Luca_2025:
   publisher: Springer Science and Business Media LLC
   tags:
   - tesisprop
+  - metaheuristics
   title: Machine Learning gravity compactifications on negatively curved 
     manifolds
   url:
@@ -1336,6 +1379,7 @@ Abel_2014:
   publisher: Springer Science and Business Media LLC
   tags:
   - tesisprop
+  - metaheuristics
   title: Genetic algorithms and the search for viable string vacua
   url:
   - http://dx.doi.org/10.1007/JHEP08(2014)010
@@ -1361,6 +1405,7 @@ He_2025:
   publisher: Elsevier BV
   tags:
   - tesisprop
+  - metaheuristics
   title: Metaheuristic generation of brane tilings
   url:
   - http://dx.doi.org/10.1016/j.physletb.2025.139365
@@ -1383,6 +1428,7 @@ Damian_2013:
   publisher: American Physical Society (APS)
   tags:
   - tesisprop
+  - metaheuristics
   title: More stable de Sitter vacua from<mml:math 
     xmlns:mml={\textquotedblleft}http://www.w3.org/1998/Math/MathML{\textquotedblright}
     display={\textquotedblleft}inline{\textquotedblright}><mml:mi>S</mml:mi></mml:math>-dual
@@ -1549,6 +1595,7 @@ Damian_2013_a:
   publisher: Springer Science and Business Media LLC
   tags:
   - tesisprop
+  - metaheuristics
   title: Slow-roll inflation in non-geometric flux compactification
   url:
   - http://dx.doi.org/10.1007/JHEP06(2013)109
@@ -1572,6 +1619,7 @@ Mehrabian_2006:
   publisher: Elsevier BV
   tags:
   - tesisprop
+  - metaheuristics
   title: A novel numerical optimization algorithm inspired from weed 
     colonization
   url:
@@ -1600,6 +1648,7 @@ Qin_2006:
   publisher: Springer Berlin Heidelberg
   tags:
   - tesisprop
+  - metaheuristics
   title: Adaptive Inertia Weight Particle Swarm Optimization
   url:
   - http://dx.doi.org/10.1007/11785231_48
@@ -1624,8 +1673,148 @@ Kennedy:
   series: ICNN-95
   tags:
   - tesisprop
+  - metaheuristics
   title: Particle swarm optimization
   url:
   - http://dx.doi.org/10.1109/icnn.1995.488968
   volume: 4
+...
+---
+WOS:A1985ACW9900019:
+  ENTRYTYPE: article
+  add: ''
+  address: 70 MAIN ST, PETERBOROUGH, NH 03458
+  author:
+  - first: T
+    last: MCMILLAN
+  da: '2026-03-15'
+  doc-delivery-number: ACW99
+  issn: 0279-4721
+  journal: POPULAR COMPUTING
+  language: English
+  number: 6
+  number-of-cited-references: 0
+  pages: 67
+  publisher: BYTE PUBL INC
+  research-areas: Computer Science
+  tags:
+  - tesisprop
+  - metaheuristics
+  times-cited: 0
+  title: SCIENTIFIC COMPUTING
+  type: Editorial Material
+  unique-id: WOS:A1985ACW9900019
+  usage-count-last-180-days: 0
+  usage-count-since-2013: 0
+  volume: 4
+  web-of-science-categories: "Computer Science, Hardware \\& Architecture; Computer
+    Science, Software\nEngineering"
+  web-of-science-index: Science Citation Index Expanded (SCI-EXPANDED)
+  year: 1985
+...
+---
+WOS:000975679700001:
+  ENTRYTYPE: article
+  abstract: "Metaheuristics are popularly used in various fields, and they have\n\
+    attracted much attention in the scientific and industrial communities.\nIn recent
+    years, the number of new metaheuristic names has been\ncontinuously growing. Generally,
+    the inventors attribute the novelties\nof these new algorithms to inspirations
+    from either biology, human\nbehaviors, physics, or other phenomena. In addition,
+    these new\nalgorithms, compared against basic versions of other metaheuristics\n\
+    using classical benchmark problems, show competitive performances.\nHowever, many
+    new metaheuristics are not rigorously tested on\nchallenging benchmark suites
+    and are not compared with state-of-the-art\nmetaheuristic variants. Therefore,
+    in this study, we exhaustively\ntabulate more than 500 meta -heuristics. In particular,
+    several\nrepresentative metaheuristics are introduced from two aspects, namely,\n\
+    the inspirational source and the essential operators for generating\nsolutions.
+    To comparatively evaluate the per-formance of the\nstate-of-the-art and newly
+    proposed metaheuristics, 11 newly proposed\nmetaheuristics (generally with high
+    numbers of citations) and 4\nstate-of-the-art metaheuristics are comprehensively
+    compared on the\nCEC2017 benchmark suite. For fair comparisons, a parameter tuning
+    tool\nnamed irace is used to automatically configure the parameters of all 15\n\
+    algorithms. In addition, whether these algorithms have a search bias to\nthe origin
+    (i.e., the center of the search space) is investigated. All\nthe experimental
+    results are analyzed by several nonparametric\nstatistical methods, including
+    the Bayesian rank-sum test, Friedman\ntest, Wilcoxon signed-rank test, critical
+    difference plot and Bayesian\nsigned-rank test. Moreover, the convergence, diversity,
+    and the\ntrade-off between exploration and exploitation of these 15 algorithms\n\
+    are also analyzed. The results show that the performance of the newly\nproposed
+    EBCM algorithm performs similarly to the 4 compared algorithms\nand has the same
+    properties and behaviors, such as convergence,\ndiversity, exploration and exploitation
+    trade-offs, in many aspects.\nHowever, the other 10 recent metaheuristics are
+    less efficient and\nrobust than the 4 state-of-the-art metaheuristics. The performance
+    of\nall 15 of the algorithms is likely to deteriorate due to certain\ntransformations,
+    while the 4 state-of-the-art metaheuristics are less\naffected by transformations
+    such as the shifting of the global optimal\npoint away from the center of the
+    search space. It should be noted that,\nexcept EBCM, the other 10 new algorithms
+    are inferior to the 4\nstate-of-the-art algorithms in terms of convergence speed
+    and global\nsearch ability on CEC 2017 functions. Moreover, the other 10 new\n\
+    algorithms are rougher (i.e., present in their behavior with high\noscillations)
+    in terms of the trade-off between exploitation and\nexploration and population
+    diversity compared with the 4\nstate-of-the-art algorithms. Finally, several important
+    issues relevant\nto the metaheuristic research area are discussed and some potential\n\
+    research directions are suggested."
+  add: ''
+  address: RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+  affiliation: "Wu, GH (Corresponding Author), Cent South Univ, Sch Traff \\& Transportat
+    Engn, Changsha 410075, Peoples R China.\nSuganthan, PN (Corresponding Author),
+    Qatar Univ, Coll Engn, KINDI Ctr Comp Res, Doha, Qatar.\nSuganthan, PN (Corresponding
+    Author), Nanyang Technol Univ, Sch Elect \\& Elect Engn, Singapore 639798, Singapore.\n\
+    Ma, Zhongqiang; Wu, Guohua; Song, Aijuan; Luo, Qizhang, Cent South Univ, Sch Traff
+    \\& Transportat Engn, Changsha 410075, Peoples R China.\nSuganthan, Ponnuthurai
+    Nagaratnam, Qatar Univ, Coll Engn, KINDI Ctr Comp Res, Doha, Qatar.\nSuganthan,
+    Ponnuthurai Nagaratnam, Nanyang Technol Univ, Sch Elect \\& Elect Engn, Singapore
+    639798, Singapore."
+  affiliations: "Central South University; Qatar University; Nanyang Technological\n\
+    University"
+  article-number: 101248
+  author:
+  - first: Zhongqiang
+    last: Ma
+  - first: Guohua
+    last: Wu
+  - first: Ponnuthurai Nagaratnam
+    last: Suganthan
+  - first: Aijuan
+    last: Song
+  - first: Qizhang
+    last: Luo
+  author-email: "guohuawu@csu.edu.cn\np.n.suganthan@qu.edu.qa"
+  da: '2026-03-16'
+  doc-delivery-number: E5BA7
+  doi: 10.1016/j.swevo.2023.101248
+  earlyaccessdate: FEB 2023
+  eissn: 2210-6510
+  issn: 2210-6502
+  journal: SWARM AND EVOLUTIONARY COMPUTATION
+  journal-iso: Swarm Evol. Comput.
+  keywords: "Metaheuristics; Nature-inspired; Parameter tuning; Search bias to\norigin;
+    Performance evaluation; Nonparametric tests"
+  keywords-plus: "GRASSHOPPER OPTIMIZATION ALGORITHM; NUMERICAL FUNCTION OPTIMIZATION;\n\
+    LEARNING-BASED-OPTIMIZATION; DIFFERENTIAL EVOLUTION; GENETIC ALGORITHM;\nSEARCH;
+    ENSEMBLE; DESIGN; COLONY; CONVERGENCE"
+  language: English
+  month: mar
+  number-of-cited-references: 136
+  oa: Green Submitted, hybrid
+  orcid-numbers: Suganthan, Ponnuthurai Nagaratnam/0000-0003-0901-5105
+  publisher: ELSEVIER
+  research-areas: Computer Science
+  researcherid-numbers: "Ma, Zhongqiang/OIV-3859-2025\nLuo, Qizhang/LXL-6222-2024\n\
+    Suganthan, Ponnuthurai Nagaratnam/A-5023-2011"
+  tags:
+  - tesisprop
+  - metaheuristics
+  times-cited: 148
+  title: "Performance assessment and exhaustive listing of 500+nature-inspired\nmetaheuristic
+    algorithms"
+  type: Article
+  unique-id: WOS:000975679700001
+  usage-count-last-180-days: 7
+  usage-count-since-2013: 84
+  volume: 77
+  web-of-science-categories: "Computer Science, Artificial Intelligence; Computer
+    Science, Theory \\&\nMethods"
+  web-of-science-index: Science Citation Index Expanded (SCI-EXPANDED)
+  year: 2023
 ...
