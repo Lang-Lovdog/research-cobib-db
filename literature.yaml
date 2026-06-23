@@ -1600,6 +1600,7 @@ Qin_2006:
   publisher: Springer Berlin Heidelberg
   tags:
   - tesisprop
+  - metaheuristics
   title: Adaptive Inertia Weight Particle Swarm Optimization
   url:
   - http://dx.doi.org/10.1007/11785231_48
@@ -1624,6 +1625,7 @@ Kennedy:
   series: ICNN-95
   tags:
   - tesisprop
+  - metaheuristics
   title: Particle swarm optimization
   url:
   - http://dx.doi.org/10.1109/icnn.1995.488968
