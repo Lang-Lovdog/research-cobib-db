@@ -1907,3 +1907,22 @@ WOS:000975679700001:
   web-of-science-index: Science Citation Index Expanded (SCI-EXPANDED)
   year: 2023
 ...
+---
+Saari_1999:
+  ENTRYTYPE: article
+  author:
+  - first: Donald G.
+    last: Saari
+  doi: 10.1006/jeth.1999.2541
+  issn: 0022-0531
+  journal: Journal of Economic Theory
+  month: aug
+  number: 2
+  pages: 313{\textendash}355
+  publisher: Elsevier BV
+  title: Explaining All Three-Alternative Voting Outcomes
+  url:
+  - http://dx.doi.org/10.1006/jeth.1999.2541
+  volume: 87
+  year: 1999
+...
