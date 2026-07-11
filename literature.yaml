@@ -1926,3 +1926,32 @@ Saari_1999:
   volume: 87
   year: 1999
 ...
+---
+marquez2026genetic:
+  ENTRYTYPE: article
+  abstract: The exploration of high-dimensional, non-linear potential landscapes
+    is a central computational challenge. In fields such as string theory, the 
+    search for stable vacuum configurations reduces to a global optimisation 
+    problem on a rugged objective function where classic gradient-based methods 
+    are inadequate. In this work, a simple genetic algorithm (GA) is tailored to
+    the optimisation of a type IIB string theory potential with torsion, 
+    extending the analysis of a previous work done with Simulate Annealing. A 
+    penalty-based objective enforces critical point conditions, stability and a 
+    positive potential. Using uniform bounds for the five flux coefficients and 
+    100 independent runs, the GA explored the landscape extensively, producing 
+    11,979 critical points.
+  author:
+  - first: Brandon
+    last: Marquez-Salazar
+  - first: Cesar
+    last: Damian
+  - first: Angel
+    last: Diaz-Pacheco
+  institution: Universidad de Guanajuato, Divisi{\'o}n de Ingenier{\'\i}as 
+    Campus Irapuato-Salamanca
+  keywords: Type IIB String Theory, Flux Compactifications, de Sitter Vacua, 
+    Genetic Algorithms, Global optimisation, Metaheuristics
+  title: 'Genetic Algorithm Search for Stable Vacua in Type IIB String Theory: A Computational
+    Approach'
+  year: 2026
+...
