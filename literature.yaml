@@ -1979,3 +1979,21 @@ Abdel_Basset_2018:
   - http://dx.doi.org/10.1016/B978-0-12-813314-9.00010-4
   year: 2018
 ...
+---
+Hendy2023ABA:
+  ENTRYTYPE: article
+  author:
+  - first: Hendy
+    last: Hendy
+  - first: Mohammad Isa
+    last: Irawan
+  - first: Imam
+    last: Mukhlash
+  - first: Samsul
+    last: Setumin
+  journal: 'Register: Jurnal Ilmiah Teknologi Sistem Informasi'
+  title: A Bibliometric Analysis of Metaheuristic Research and Its Applications
+  url:
+  - https://api.semanticscholar.org/CorpusID:258231058
+  year: 2023
+...
