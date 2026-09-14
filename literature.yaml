@@ -2024,3 +2024,30 @@ Kallosh_2002:
   volume: 66
   year: 2002
 ...
+---
+Kallosh_2002_a:
+  ENTRYTYPE: article
+  author:
+  - first: Renata
+    last: Kallosh
+  - first: Andrei
+    last: Linde
+  - first: Sergey
+    last: Prokushkin
+  - first: Marina
+    last: Shmakova
+  doi: 10.1103/physrevd.65.105016
+  issn: 1089-4918
+  journal: Physical Review D
+  month: may
+  number: 10
+  publisher: American Physical Society (APS)
+  tags:
+  - stringtheory
+  - string_theory
+  title: Gauged supergravities, de Sitter space, and cosmology
+  url:
+  - http://dx.doi.org/10.1103/physrevd.65.105016
+  volume: 65
+  year: 2002
+...
