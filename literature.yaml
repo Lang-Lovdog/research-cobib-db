@@ -1997,3 +1997,30 @@ Hendy2023ABA:
   - https://api.semanticscholar.org/CorpusID:258231058
   year: 2023
 ...
+---
+Kallosh_2002:
+  ENTRYTYPE: article
+  author:
+  - first: Renata
+    last: Kallosh
+  - first: Andrei
+    last: Linde
+  - first: Sergey
+    last: Prokushkin
+  - first: Marina
+    last: Shmakova
+  doi: 10.1103/physrevd.66.123503
+  issn: 1089-4918
+  journal: Physical Review D
+  month: dec
+  number: 12
+  publisher: American Physical Society (APS)
+  tags:
+  - stringtheory
+  - string_theory
+  title: Supergravity, dark energy, and the fate of the universe
+  url:
+  - http://dx.doi.org/10.1103/PhysRevD.66.123503
+  volume: 66
+  year: 2002
+...
