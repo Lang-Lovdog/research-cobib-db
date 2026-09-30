@@ -2074,3 +2074,29 @@ Prasad_2012:
   volume: 85
   year: 2012
 ...
+---
+Hern_ndez_2026:
+  ENTRYTYPE: article
+  author:
+  - first: Daniel Morales
+    last: Hernández
+  - first: Gabriela
+    last: Garcia-Arroyo
+  - first: J. Alberto
+    last: Vazquez
+  doi: 10.3390/universe12070212
+  issn: 2218-1997
+  journal: Universe
+  month: jul
+  number: 7
+  pages: 212
+  publisher: MDPI AG
+  tags:
+  - metaheuristic
+  - metaheuristics
+  title: Cosmological Parameter Estimation Using Particle Swarm Optimization
+  url:
+  - http://dx.doi.org/10.3390/universe12070212
+  volume: 12
+  year: 2026
+...
