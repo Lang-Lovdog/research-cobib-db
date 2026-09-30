@@ -2100,3 +2100,34 @@ Hern_ndez_2026:
   volume: 12
   year: 2026
 ...
+---
+Rojas_2025:
+  ENTRYTYPE: article
+  author:
+  - first: Luis
+    last: Rojas
+  - first: Sebastián
+    last: Espinoza
+  - first: Esteban
+    last: González
+  - first: Carlos
+    last: Maldonado
+  - first: Fei
+    last: Luo
+  doi: 10.3390/galaxies13050114
+  issn: 2075-4434
+  journal: Galaxies
+  month: oct
+  number: 5
+  pages: 114
+  publisher: MDPI AG
+  tags:
+  - metaheuristic
+  - metaheuristics
+  title: A Systematic Literature Review of Machine Learning Techniques for 
+    Observational Constraints in Cosmology
+  url:
+  - http://dx.doi.org/10.3390/galaxies13050114
+  volume: 13
+  year: 2025
+...
