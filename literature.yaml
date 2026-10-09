@@ -2153,3 +2153,25 @@ Quinlan_1986:
   volume: 1
   year: 1986
 ...
+---
+Breiman_2001:
+  ENTRYTYPE: article
+  author:
+  - first: Leo
+    last: Breiman
+  doi: 10.1023/a:1010933404324
+  issn: 1573-0565
+  journal: Machine Learning
+  month: oct
+  number: 1
+  pages: 5{\textendash}32
+  publisher: Springer Science and Business Media LLC
+  tags:
+  - classifier
+  - classifiers
+  title: Random Forests
+  url:
+  - http://dx.doi.org/10.1023/A:1010933404324
+  volume: 45
+  year: 2001
+...
