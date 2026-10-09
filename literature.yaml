@@ -2225,3 +2225,24 @@ Chen_2016:
   - http://dx.doi.org/10.1145/2939672.2939785
   year: 2016
 ...
+---
+cramer2002origins:
+  ENTRYTYPE: techreport
+  address: Amsterdam, The Netherlands
+  author:
+  - first: J. S.
+    last: Cramer
+  institution: Tinbergen Institute
+  month: nov
+  note: Much extended version of Chapter 9 of \emph{Logit Models from Economics 
+    and Other Fields}, forthcoming at Cambridge University Press
+  number: 2002-119/4
+  tags:
+  - classifier
+  - classifiers
+  title: The Origins of Logistic Regression
+  type: Tinbergen Institute Discussion Paper
+  url:
+  - https://papers.tinbergen.nl/02119.pdf
+  year: 2002
+...
