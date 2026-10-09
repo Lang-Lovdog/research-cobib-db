@@ -2201,3 +2201,27 @@ Cover_1967:
   volume: 13
   year: 1967
 ...
+---
+Chen_2016:
+  ENTRYTYPE: inproceedings
+  author:
+  - first: Tianqi
+    last: Chen
+  - first: Carlos
+    last: Guestrin
+  booktitle: Proceedings of the 22nd ACM SIGKDD International Conference on 
+    Knowledge Discovery and Data Mining
+  collection: KDD {\textquoteright}16
+  doi: 10.1145/2939672.2939785
+  month: aug
+  pages: 785{\textendash}794
+  publisher: ACM
+  series: KDD {\textquoteright}16
+  tags:
+  - classifier
+  - classifiers
+  title: 'XGBoost: A Scalable Tree Boosting System'
+  url:
+  - http://dx.doi.org/10.1145/2939672.2939785
+  year: 2016
+...
