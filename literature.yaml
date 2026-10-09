@@ -2246,3 +2246,25 @@ cramer2002origins:
   - https://papers.tinbergen.nl/02119.pdf
   year: 2002
 ...
+---
+Cox_1958:
+  ENTRYTYPE: article
+  author:
+  - first: D. R.
+    last: Cox
+  doi: 10.1111/j.2517-6161.1958.tb00292.x
+  issn: 1467-9868
+  journal: 'Journal of the Royal Statistical Society Series B: Statistical Methodology'
+  month: jul
+  number: 2
+  pages: 215{\textendash}232
+  publisher: Oxford University Press (OUP)
+  tags:
+  - classifier
+  - classifiers
+  title: The Regression Analysis of Binary Sequences
+  url:
+  - http://dx.doi.org/10.1111/j.2517-6161.1958.tb00292.x
+  volume: 20
+  year: 1958
+...
