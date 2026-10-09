@@ -2175,3 +2175,29 @@ Breiman_2001:
   volume: 45
   year: 2001
 ...
+---
+Cover_1967:
+  ENTRYTYPE: article
+  author:
+  - first: T.
+    last: Cover
+  - first: P.
+    last: Hart
+  doi: 10.1109/tit.1967.1053964
+  file:
+  - ~/.local/share/cobib/Cover_1967.pdf
+  issn: 1557-9654
+  journal: IEEE Transactions on Information Theory
+  month: jan
+  number: 1
+  pages: 21{\textendash}27
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  tags:
+  - classifier
+  - classifiers
+  title: Nearest neighbor pattern classification
+  url:
+  - http://dx.doi.org/10.1109/TIT.1967.1053964
+  volume: 13
+  year: 1967
+...
