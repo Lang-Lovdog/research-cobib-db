@@ -2268,3 +2268,31 @@ Cox_1958:
   volume: 20
   year: 1958
 ...
+---
+Marquez_Salazar_2026:
+  ENTRYTYPE: inbook
+  author:
+  - first: Brandon
+    last: Marquez-Salazar
+  - first: Cesar
+    last: Damian
+  - first: Angel
+    last: Diaz-Pacheco
+  booktitle: Artificial Intelligence {\textendash} COMIA 2026
+  doi: 10.1007/978-3-032-37444-8_48
+  isbn: 9783032374448
+  issn: 1865-0937
+  month: sep
+  pages: 652{\textendash}665
+  publisher: Springer Nature Switzerland
+  tags:
+  - metaheuristic
+  - metaheuristics
+  - thesis
+  - stringtheory
+  title: 'Genetic Algorithm Search for{~}Stable Vacua in{~}Type IIB String Theory:
+    A Computational Approach'
+  url:
+  - http://dx.doi.org/10.1007/978-3-032-37444-8_48
+  year: 2026
+...
