@@ -2296,3 +2296,23 @@ Marquez_Salazar_2026:
   - http://dx.doi.org/10.1007/978-3-032-37444-8_48
   year: 2026
 ...
+---
+Jolliffe_1986:
+  ENTRYTYPE: book
+  author:
+  - first: I. T.
+    last: Jolliffe
+  doi: 10.1007/978-1-4757-1904-8
+  isbn: 9781475719048
+  issn: 0172-7397
+  journal: Springer Series in Statistics
+  publisher: Springer New York
+  tags:
+  - dimred
+  - dimreduction
+  - dimensionality
+  title: Principal Component Analysis
+  url:
+  - http://dx.doi.org/10.1007/978-1-4757-1904-8
+  year: 1986
+...
