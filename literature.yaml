@@ -2356,3 +2356,26 @@ Halko2009:
     approximate matrix decompositions'
   year: 2009
 ...
+---
+Stewart_1993:
+  ENTRYTYPE: article
+  author:
+  - first: G. W.
+    last: Stewart
+  doi: 10.1137/1035134
+  issn: 1095-7200
+  journal: SIAM Review
+  month: dec
+  number: 4
+  pages: 551{\textendash}566
+  publisher: Society for Industrial & Applied Mathematics (SIAM)
+  tags:
+  - dimred
+  - dimreduction
+  - dimensionality
+  title: On the Early History of the Singular Value Decomposition
+  url:
+  - http://dx.doi.org/10.1137/1035134
+  volume: 35
+  year: 1993
+...
