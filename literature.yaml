@@ -2433,3 +2433,29 @@ Golub_1970:
   volume: 14
   year: 1970
 ...
+---
+Roweis_2000:
+  ENTRYTYPE: article
+  author:
+  - first: Sam T.
+    last: Roweis
+  - first: Lawrence K.
+    last: Saul
+  doi: 10.1126/science.290.5500.2323
+  issn: 1095-9203
+  journal: Science
+  month: dec
+  number: 5500
+  pages: 2323{\textendash}2326
+  publisher: American Association for the Advancement of Science (AAAS)
+  tags:
+  - dimreduction
+  - dimensionality
+  - dimred
+  - LLE
+  title: Nonlinear Dimensionality Reduction by Locally Linear Embedding
+  url:
+  - http://dx.doi.org/10.1126/science.290.5500.2323
+  volume: 290
+  year: 2000
+...
