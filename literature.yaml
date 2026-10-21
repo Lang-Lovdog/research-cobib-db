@@ -2459,3 +2459,31 @@ Roweis_2000:
   volume: 290
   year: 2000
 ...
+---
+Tenenbaum_2000:
+  ENTRYTYPE: article
+  author:
+  - first: Joshua B.
+    last: Tenenbaum
+  - first: Vin de
+    last: Silva
+  - first: John C.
+    last: Langford
+  doi: 10.1126/science.290.5500.2319
+  issn: 1095-9203
+  journal: Science
+  month: dec
+  number: 5500
+  pages: 2319{\textendash}2323
+  publisher: American Association for the Advancement of Science (AAAS)
+  tags:
+  - dimreduction
+  - dimensionality
+  - dimred
+  - isomap
+  title: A Global Geometric Framework for Nonlinear Dimensionality Reduction
+  url:
+  - http://dx.doi.org/10.1126/science.290.5500.2319
+  volume: 290
+  year: 2000
+...
