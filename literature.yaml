@@ -2487,3 +2487,27 @@ Tenenbaum_2000:
   volume: 290
   year: 2000
 ...
+---
+FISHER_1936:
+  ENTRYTYPE: article
+  author:
+  - first: R. A.
+    last: FISHER
+  doi: 10.1111/j.1469-1809.1936.tb02137.x
+  issn: 2050-1439
+  journal: Annals of Eugenics
+  month: sep
+  number: 2
+  pages: 179{\textendash}188
+  publisher: Wiley
+  tags:
+  - dimreduction
+  - dimensionality
+  - dimred
+  - LDA
+  title: THE USE OF MULTIPLE MEASUREMENTS IN TAXONOMIC PROBLEMS
+  url:
+  - http://dx.doi.org/10.1111/j.1469-1809.1936.tb02137.x
+  volume: 7
+  year: 1936
+...
