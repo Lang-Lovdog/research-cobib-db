@@ -2406,3 +2406,30 @@ Eckart_1936:
   volume: 1
   year: 1936
 ...
+---
+Golub_1970:
+  ENTRYTYPE: article
+  author:
+  - first: G. H.
+    last: Golub
+  - first: C.
+    last: Reinsch
+  doi: 10.1007/bf02163027
+  issn: 0945-3245
+  journal: Numerische Mathematik
+  month: apr
+  number: 5
+  pages: 403{\textendash}420
+  publisher: Springer Science and Business Media LLC
+  tags:
+  - SVD
+  - dimreduction
+  - dimensionality
+  - dimred
+  - truncatedSVD
+  title: Singular value decomposition and least squares solutions
+  url:
+  - http://dx.doi.org/10.1007/BF02163027
+  volume: 14
+  year: 1970
+...
