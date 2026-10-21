@@ -2379,3 +2379,30 @@ Stewart_1993:
   volume: 35
   year: 1993
 ...
+---
+Eckart_1936:
+  ENTRYTYPE: article
+  author:
+  - first: Carl
+    last: Eckart
+  - first: Gale
+    last: Young
+  doi: 10.1007/bf02288367
+  issn: 1860-0980
+  journal: Psychometrika
+  month: sep
+  number: 3
+  pages: 211{\textendash}218
+  publisher: Cambridge University Press (CUP)
+  tags:
+  - SVD
+  - dimreduction
+  - dimensionality
+  - dimred
+  - truncatedSVD
+  title: The Approximation of One Matrix by Another of Lower Rank
+  url:
+  - http://dx.doi.org/10.1007/BF02288367
+  volume: 1
+  year: 1936
+...
