@@ -2511,3 +2511,26 @@ FISHER_1936:
   volume: 7
   year: 1936
 ...
+---
+Socha_2008:
+  ENTRYTYPE: article
+  author:
+  - first: Krzysztof
+    last: Socha
+  - first: Marco
+    last: Dorigo
+  doi: 10.1016/j.ejor.2006.06.046
+  issn: 0377-2217
+  journal: European Journal of Operational Research
+  month: mar
+  number: 3
+  pages: 1155{\textendash}1173
+  publisher: Elsevier BV
+  tags:
+  - metaheuristics
+  title: Ant colony optimization for continuous domains
+  url:
+  - http://dx.doi.org/10.1016/j.ejor.2006.06.046
+  volume: 185
+  year: 2008
+...
