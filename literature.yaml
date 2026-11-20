@@ -2551,3 +2551,33 @@ edelstein2016cuerdas:
   - https://books.google.com.mx/books?id=xjgHtAEACAAJ
   year: 2016
 ...
+---
+Zangari_2017:
+  ENTRYTYPE: article
+  author:
+  - first: M.
+    last: Zangari
+  - first: R.
+    last: Santana
+  - first: A.
+    last: Mendiburu
+  - first: A.T.R.
+    last: Pozo
+  doi: 10.1016/j.asoc.2016.12.045
+  issn: 1568-4946
+  journal: Applied Soft Computing
+  month: apr
+  pages: 88{\textendash}96
+  publisher: Elsevier BV
+  tags:
+  - PBIL
+  - metaheuristics
+  - optimisation
+  - optimization
+  title: 'Not all PBILs are the same: Unveiling the different learning mechanisms
+    of PBIL variants'
+  url:
+  - http://dx.doi.org/10.1016/j.asoc.2016.12.045
+  volume: 53
+  year: 2017
+...
