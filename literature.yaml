@@ -2581,20 +2581,3 @@ Zangari_2017:
   volume: 53
   year: 2017
 ...
----
-edelstein2016cuerdas_a:
-  ENTRYTYPE: book
-  author:
-  - first: J.
-    last: Edelstein
-  - first: G.
-    last: Giribet
-  isbn: 9788447383870
-  publisher: RBA
-  series: Un paseo por el cosmos
-  title: "Cuerdas y supercuerdas: La naturaleza microsc{\\'o}pica de las part{\\'\\
-    i}culas y del espacio-tiempo"
-  url:
-  - https://books.google.com.mx/books?id=xjgHtAEACAAJ
-  year: 2016
-...
