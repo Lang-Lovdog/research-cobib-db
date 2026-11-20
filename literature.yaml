@@ -2581,3 +2581,20 @@ Zangari_2017:
   volume: 53
   year: 2017
 ...
+---
+becker2006string:
+  ENTRYTYPE: book
+  author:
+  - first: K.
+    last: Becker
+  - first: M.
+    last: Becker
+  - first: J.H.
+    last: Schwarz
+  isbn: 9781139460484
+  publisher: Cambridge University Press
+  title: 'String Theory and M-Theory: A Modern Introduction'
+  url:
+  - https://books.google.com.mx/books?id=WgUkSTJWQacC
+  year: 2006
+...
